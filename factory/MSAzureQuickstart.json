@@ -1,0 +1,9 @@
+{
+	"name": "MSAzureQuickstart",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ac4e85ed-947f-4405-a17c-1f86507a4876",
+		"tenantId": "dbd6664d-4eb9-46eb-99d8-5c43ba153c61"
+	}
+}
