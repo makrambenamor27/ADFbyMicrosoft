@@ -15,8 +15,9 @@
 		"typeProperties": {
 			"recurrence": {
 				"frequency": "Minute",
-				"interval": 15,
+				"interval": 1,
 				"startTime": "2021-09-14T17:23:00",
+				"endTime": "2021-09-15T18:27:00",
 				"timeZone": "GMT Standard Time"
 			}
 		}
